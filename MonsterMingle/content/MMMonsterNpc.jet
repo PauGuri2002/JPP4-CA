@@ -1,0 +1,26 @@
+{
+    "content":[
+        {
+            "id":"Robot",
+            "frame":"Monster17",
+            "name":"Robot",
+            "role":"Bot",
+            
+            "shortDescription": "",
+            "description":"ROBOT: Aleatoriament intenta sortir amb un dels jugadors a qui envia missatges.</br>Al final del joc, si el Robot queda a l'última posició, no aconsegueix entendre les emocions humanes i destrueix a tothom. (Tothom perd)</br>El Robot guanya un cor CADA cop que un jugador intenta tenir una cita amb ell.</br>PERÒ… també perd un cor al final de cada nit.",
+            "selfDescription":"",
+            "powerpopup": {"single": "Un jugador li ha demanat per sortir.",
+                           "multiple": "[Number] jugadors li han demanat per sortir.",
+                           "decay": "El Robot perd 1 cor cada nit",
+                           "destroy": "El Robot DESTRUEIX a tothom!"},
+            "epitaph": { "nobody": "Ningú li ha demanat per sortir. Ni un sol cop.",
+                         "singular": "Li han demanat per sortir 1 vegada.",
+                         "plural": "Li han demanat per sortir [Number] vegades.",
+                         "destroyer": "<br />I lamenta haver destruït la humanitat.",
+                         "winner": "<br />I d'alguna manera ha guanyat!",
+                         "loser": "<br />I no ha acabat últim (per sort)." },
+
+            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Robot"
+        }
+    ]
+}
