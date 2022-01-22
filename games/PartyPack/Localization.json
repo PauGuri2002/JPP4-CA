@@ -1,0 +1,72 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Acabem de trobar Internet.",
+        "INTERNET_DISCONNECTED": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "ROOM_DESTROYED": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "SOCKET_DISCONNECTED": "Hem perdut la connexió als servidors de Jackbox Games.",
+        "TIMEOUT": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "USER_DISCONNECT": "Ho sentim, el servidor t'ha desconnectat. Torna-ho a intentar, si us plau.",
+        "LOST_LICENSE": "No hem trobat la llicència d'aquest contingut.",
+        "STEAM_ERROR": "No hem pogut validar la teva llicència de Steam.",
+        "TWITCH_PRIME_ERROR": "No hem pogut validar la teva llicència de Twitch Prime.",
+        "LOST_DLC": "No hem trobat la llicència del teu DLC. Tornant al menú...",
+        "CLOSE": "Tancar",
+        "QUIT": "Sortir",
+        "BACK": "Torna",
+        "MENU_GAME_NAME_1": "Fibbage 3",
+        "MENU_GAME_NAME_2": "Survive the Internet [CAT]",
+        "MENU_GAME_NAME_3": "Monster Seeking Monster [CAT]",
+        "MENU_GAME_NAME_4": "Bracketeering",
+        "MENU_GAME_NAME_5": "Civic Doodle [CAT]",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "Opcions",
+        "MENU_HOW_TO": "COM JUGAR",
+        "BADGE_TITLE_PLAYERS": "JUGADORS",
+        "BADGE_TITLE_FAMILY_MODE": "FAMILY-FRIENDLY",
+        "BADGE_TITLE_AUDIENCE": "AUDIÈNCIA",
+        "BADGE_SUB_PLAYERS": "ÚS DE DISPOSITIUS",
+        "BADGE_SUB_FAMILY_MODE": "OPCIONAL",
+        "BADGE_SUB_AUDIENCE": "MÉS PODEN PARTICIPAR",
+        "INFO_DESCRIPTION_GAME_1": "Miente con todo tipo de preguntas nuevas y el aún más nuevo modo Fibbage: Enough About You. ¡Adivina datos extraños sobre los otros jugadores!",
+        "INFO_DESCRIPTION_GAME_2": "Inicia sessió i posa't el cinturó! Prepara't per sobreviure entre punyalades treient els teus amics de context per tota la World Wide Web.",
+        "INFO_DESCRIPTION_GAME_3": "Un joc de cites on envies missatges divertits i intentes amagar els teus poders secrets de monstre. Igual que les cites reals!",
+        "INFO_DESCRIPTION_GAME_4": "¡El perverso torneo de debate! “¿Cuál es el mejor vegetal para que Benedict Cumberbatch le haga la voz en una película?” Apuesta inteligentemente en qué ganará cada argumento estúpido.",
+        "INFO_DESCRIPTION_GAME_5": "T'han contractat per crear murals per tot Doodle Valley. Competeix per veure qui pot afegir els millors detalls en un intent de millorar la ciutat.",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "Opcions",
+        "SETTINGS_FULL_SCREEN": "Pantalla completa",
+        "SETTINGS_VOLUME": "Volum",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "SÍ farà que els jocs es vegin en pantalla completa.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Fes el joc CRIDANER o SILENCIÓS.",
+        "SETTINGS_TOGGLE_ON": "SÍ",
+        "SETTINGS_TOGGLE_OFF": "NO",
+        "HELP_TITLE": "INSTRUCCIONS",
+        "HELP_LINE_1": "Tria un joc.",
+        "HELP_LINE_2": "Quan creis la sala, agafa el teu mòbil, tauleta o portàtil.",
+        "HELP_LINE_3": "Ves a jackbox.cat al teu dispositiu.",
+        "HELP_LINE_4": "Escriu el codi de 4 lletres que veuràs en pantalla.",
+        "HELP_LINE_5": "Escriu el teu nom de jugador.",
+        "HELP_LINE_6": "El primer jugador en entrar (el VIP) pot començar la partida des del seu dispositiu quan tothom estigui llest."
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}
